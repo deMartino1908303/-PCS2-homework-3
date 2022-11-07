@@ -17,7 +17,7 @@ subs ----> Finding a Motif in DNA \\ done
 
 iev -----> Calculating Expected Offspring \\ done
 
-cons ----> Consensus and Profile
+cons ----> Consensus and Profile \\ done
 
 lia -----> Independent Alleles
 
