@@ -15,7 +15,7 @@ iprb ----> Mendel's First Law \\ done
 
 subs ----> Finding a Motif in DNA \\ done
 
-iev -----> Calculating Expected Offspring
+iev -----> Calculating Expected Offspring \\ done
 
 cons ----> Consensus and Profile
 
