@@ -11,9 +11,9 @@ revc ----> Complementing a Strand of DNA \\ done
 
 gc ------> Computing GC Content \\ done
 
-iprb ----> Mendel's First Law \\done
+iprb ----> Mendel's First Law \\ done
 
-subs ----> Finding a Motif in DNA
+subs ----> Finding a Motif in DNA \\ done
 
 cons ----> Consensus and Profile
 
