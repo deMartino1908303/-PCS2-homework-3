@@ -5,7 +5,7 @@ print(var)
 counter_at = 0
 counter_cg = 0
 for cha in var[0]:
-    if cha == "A" or "T":
+    if cha == "A" or cha == "T":
         counter_at += 1
     else:
         counter_cg += 1
