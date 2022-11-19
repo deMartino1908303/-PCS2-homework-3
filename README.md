@@ -19,6 +19,6 @@ iev -----> Calculating Expected Offspring \\ done
 
 cons ----> Consensus and Profile \\ done
 
-lia -----> Independent Alleles\\ done
+lia -----> Independent Alleles \\ done
 
-prob ----> Introduction to Random Strings
+prob ----> Introduction to Random Strings \\ done
